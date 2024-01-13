@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About me
+title: OSCAR KYAMUWENDO
 subtitle: I am a student at European campus pursuing my Bachelors in Health Informatics
 ---
-
-My name is Oscar Kyamuwendo. I have the following qualities:
 
 - I am so passionate about technology trends and inventions
 - Ilike to work with teams
