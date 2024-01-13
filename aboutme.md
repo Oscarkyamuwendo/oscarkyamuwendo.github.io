@@ -4,7 +4,7 @@ title: About me
 subtitle: I am a student at European campus pursuing my Bachelors in Health Informatics
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Oscar Kyamuwendo. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
