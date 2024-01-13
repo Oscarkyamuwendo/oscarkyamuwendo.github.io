@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: AUTOMATION BLOG CONTENT
+title: OSCAR KYAMUWENDO
 
 # Your name to show in the footer
 author: Oscar Kyamuwendo
@@ -32,7 +32,8 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "D:\MALENGO\visa\VISA REQUIREMENTS\final
+"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: True'
 round-avatar: true
@@ -53,8 +54,8 @@ social-network-links:
   email: "oscarkyamuwendo@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: Precious Oscar Kyamu
-  github: daattali
-  twitter: daattali
+  github: Oscarkyamuwendo
+  twitter: False
   patreon: DeanAttali
   youtube: "@daattali"
 #  medium: yourname
